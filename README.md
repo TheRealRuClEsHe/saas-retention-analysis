@@ -22,7 +22,7 @@ A logistic regression model identifies subscribers likely to churn, and a full e
 
 ---
 
-## Why this project (for recruiters)
+## Why this project?
 
 Four signals this repo is meant to send:
 
@@ -156,4 +156,4 @@ Note: the public dataset is a static snapshot without an explicit time horizon a
 
 ## Author
 
-**Hercules Li** · MSBA, UCLA Anderson · [LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:lihercules97@gmail.com)
+**Hercules Li** · MSBA, UCLA Anderson · [LinkedIn](https://www.linkedin.com/in/hercules-li-5a16a3192/) · [Email](mailto:lihercules97@gmail.com)
